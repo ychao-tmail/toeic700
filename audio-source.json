@@ -1,0 +1,34 @@
+[
+  {
+    "id": "l1",
+    "transcript": "Receptionist: Good morning. Welcome to Weston Design. How can I help you?\nVisitor: I have a ten o’clock appointment with Ms. Carter. I’m Alex Brown from Lakeside Publishing.\nReceptionist: Of course. She is finishing a call. Please take a seat, and I’ll let her know you’re here.\nVisitor: Thank you. Is there somewhere I can leave this large sample box?\nReceptionist: You can put it beside the front desk. I’ll ask someone to bring it to the meeting room."
+  },
+  {
+    "id": "l2",
+    "transcript": "Attention, passengers. The 10:20 express service to Northport will now depart from platform six instead of platform four. The departure time remains unchanged. Passengers with large bags may use the elevator beside the ticket office to reach platform six. Please have your tickets ready for inspection before boarding. We apologize for the change and thank you for traveling with us."
+  },
+  {
+    "id": "l3",
+    "transcript": "Staff member: Maple Restaurant. How may I help you?\nCustomer: I booked a table for four at seven tonight under the name Taylor. Could I change it to six people?\nStaff member: We can seat six at seven thirty, but our larger tables are all occupied at seven.\nCustomer: Seven thirty is fine. One guest has a nut allergy. Can you make a note of that?\nStaff member: Certainly. I’ll inform the kitchen. Your updated reservation is for six people at seven thirty."
+  },
+  {
+    "id": "l4",
+    "transcript": "Hello, Mr. Lee. This is Nina from City Appliance Service. I’m calling about your washing machine repair. Our technician can visit tomorrow between one and three in the afternoon. Please make sure someone is home during that period and clear the space around the machine. If this time does not work for you, call us before five today to reschedule. Our service number is listed in your confirmation email. Thank you."
+  },
+  {
+    "id": "l5",
+    "transcript": "Jordan: Have you finished the slides for tomorrow’s client presentation?\nRiley: Almost. I’m still waiting for the updated sales figures from finance. Without them, the last two charts will be out of date.\nJordan: I received those figures this morning. I’ll forward the file right away. Do you want me to check the charts afterward?\nRiley: That would help. Could you also reserve a meeting room for a practice session at four?\nJordan: Sure. I’ll book the small room next to the kitchen."
+  },
+  {
+    "id": "l6",
+    "transcript": "Welcome to the City History Museum. Today’s two o’clock guided tour will begin in the main lobby, rather than the east gallery, where maintenance work is taking place. The tour lasts about forty minutes and is included in your admission ticket. Photography is permitted in the permanent collection, but please do not use a flash. The special exhibition on the second floor requires a separate ticket, available at the information desk. Our café closes at four thirty, half an hour before the museum."
+  },
+  {
+    "id": "l7",
+    "transcript": "Casey: We need new headsets for the support team. The wireless ones cost more, but they let staff move around during calls.\nMorgan: I agree that would be useful. Do they work with our current computers?\nCasey: The supplier says they do, and we can test two samples for a week at no charge.\nMorgan: Let’s do that before ordering twenty. Ask the team to record any connection problems.\nCasey: Good idea. I’ll contact the supplier this afternoon and arrange delivery of the samples."
+  },
+  {
+    "id": "l8",
+    "transcript": "Before we finish, here are the arrangements for Friday’s product launch. Guests will arrive from nine, and the demonstration starts at nine thirty. Marketing staff should be at the venue by eight to check the displays. We originally planned to provide printed brochures, but the design team has created a digital version instead. Please place the QR code cards on every table. After the demonstration, visitors can speak to our engineers in the smaller room. If you notice any missing equipment during setup, contact me directly rather than the venue manager."
+  }
+]
