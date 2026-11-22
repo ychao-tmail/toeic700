@@ -47,4 +47,4 @@
 
 `audio-source.json` 是現有聽力逐字稿的音檔產生來源。Windows 已安裝 Microsoft Zira Desktop 時，可執行 `powershell -File generate-audio.ps1` 重建語音檔。
 
-網站部署內容位於 `dist/`，站點身分與輸出設定位於 `.openai/hosting.json`。
+網站部署內容位於 `dist/`。正式網站為 Cloudflare Pages：https://toeic700.pages.dev ，連結 GitHub `ychao-tmail/toeic700` 的 `main` 分支，推送後自動部署（不需建置，輸出目錄 `dist`）。`.openai/hosting.json` 是 v1.0.0 ChatGPT Sites 的設定。
